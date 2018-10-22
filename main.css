@@ -1,0 +1,71 @@
+body {
+    background: #CCC;
+    font-family: sans-serif;
+}
+    
+
+.avatar {
+    width: 85px;
+    height: 85px;
+    border-radius: 50%;
+    float: left;
+    margin: 15px; 
+    background: url('Melting Witch.jpg') no-repeat;
+    background-size: cover;
+}
+
+header {
+    background: orange;
+    border-radius: 10px 10px 0 0;
+    color: white;
+    padding: 20px;
+    
+}
+
+h1, h2 {
+    line-height: 1;
+    font-weight: 400;
+}
+
+h1{
+    margin-bottom: 0.25em;
+}
+
+h2 {
+    margin-top: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    background: #fff;
+}
+
+ul li { 
+    padding: 15px;
+    border-bottom: 1px solid #ddd;
+}
+
+.bullet {
+    color: #fff;
+    border-radius: 1em;
+    padding: 5px 10px;
+    float: right;
+}
+
+.darkblue {
+    background: rgb(53, 23, 226);
+}
+
+.lightblue {
+    background: rgb(104, 175, 233);
+}
+
+.green {
+    background: rgb(52, 107, 26);
+}
+
+.red {
+    background: red;
+}
